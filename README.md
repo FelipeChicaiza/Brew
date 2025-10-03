@@ -5,6 +5,7 @@ As Miami residents, we wanted to create an app to help the community address the
 The app and website help users track traffic patterns and determine the best time to leave, as leaving just 15 minutes earlier can make the difference between spending an hour in traffic or just 20 minutes on the road. Since we value user input, we've also created a website where people can sign up and leave comments. This feedback will help improve the app’s understanding of user needs, and the messages will be saved as data the app can use to provide better recommendations.
 
 ## How we built it 👷
+
 We built it with:
 Frontend: React, Next.js, JavaScript, TypeScript, HTML, CSS.
 Backend: Python, Prisma, Flask.
